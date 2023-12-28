@@ -1,4 +1,4 @@
-# Motor_Control
+# ⚙️Motor_Control
 
 ## System Modeling
 - Circuit Configuration
@@ -84,3 +84,12 @@ When entering 90deg in ODE,
 The UART communication utilized a circular queue to prevent packet loss.
 While in AVR, the data type 'int' has a size of 16 bits, it should be noted that in ODE's cpp, the size of the 'int' data type is 32 bits.
 ***Therefore, it is essential to use the 'int32' data type in AVR.***
+
+## 👪Collaborator
+   <table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Hyykk"><img src="https://avatars.githubusercontent.com/Hyykk" width="100px;" alt=""/><br /><sub><b> Yoonkyo Hong </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dltnasl"><img src="https://avatars.githubusercontent.com/dltnasl" width="100px;" alt=""/><br /><sub><b> Sumin Lee </b></sub></a><br /></td>
+  </tbody>
+</table>
